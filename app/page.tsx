@@ -1,8 +1,8 @@
 "use client";
 
 import { Grid, Button } from "@mui/material";
-
 import React from "react";
+
 export default function Home() {
   // declarei um array de objetos chamado "animais"
   const animais = [
